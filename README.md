@@ -128,6 +128,5 @@ GOOGLE_API_KEY="YOUR_API_KEY_HERE"
 ![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Langchain](https://img.shields.io/badge/Langchain-0E76A8?style=for-the-badge&logo=langchain&logoColor=white)
 ![PyPDF2](https://img.shields.io/badge/PyPDF2-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-4A148C?style=for-the-badge&logo=database&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0E76A8?style=for-the-badge&logo=faiss&logoColor=white)
 ![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
